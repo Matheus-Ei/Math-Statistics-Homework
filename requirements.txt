@@ -24,7 +24,7 @@ nh3==0.2.18
 numpy==2.1.1
 packaging==24.1
 pandas==2.2.3
-pillow==10.4.0
+pillow==12.1.1
 pkginfo==1.10.0
 pycparser==2.22
 Pygments==2.18.0
